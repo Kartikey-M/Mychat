@@ -11,7 +11,7 @@ git clone https://github.com/Kartikey-M/Mychat.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd mychat
 
 ```
 
